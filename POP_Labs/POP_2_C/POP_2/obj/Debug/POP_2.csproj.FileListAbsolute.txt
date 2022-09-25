@@ -1,0 +1,7 @@
+D:\Uni\VS projects\POP_2\POP_2\bin\Debug\POP_2.exe.config
+D:\Uni\VS projects\POP_2\POP_2\bin\Debug\POP_2.exe
+D:\Uni\VS projects\POP_2\POP_2\bin\Debug\POP_2.pdb
+D:\Uni\VS projects\POP_2\POP_2\obj\Debug\POP_2.csprojAssemblyReference.cache
+D:\Uni\VS projects\POP_2\POP_2\obj\Debug\POP_2.csproj.CoreCompileInputs.cache
+D:\Uni\VS projects\POP_2\POP_2\obj\Debug\POP_2.exe
+D:\Uni\VS projects\POP_2\POP_2\obj\Debug\POP_2.pdb

@@ -1,0 +1,7 @@
+D:\Uni\VS projects\POP_1\POP_1\bin\Debug\POP_1.exe.config
+D:\Uni\VS projects\POP_1\POP_1\bin\Debug\POP_1.exe
+D:\Uni\VS projects\POP_1\POP_1\bin\Debug\POP_1.pdb
+D:\Uni\VS projects\POP_1\POP_1\obj\Debug\POP_1.csprojAssemblyReference.cache
+D:\Uni\VS projects\POP_1\POP_1\obj\Debug\POP_1.csproj.CoreCompileInputs.cache
+D:\Uni\VS projects\POP_1\POP_1\obj\Debug\POP_1.exe
+D:\Uni\VS projects\POP_1\POP_1\obj\Debug\POP_1.pdb
