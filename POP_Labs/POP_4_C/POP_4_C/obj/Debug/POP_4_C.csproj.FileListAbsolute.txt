@@ -1,0 +1,7 @@
+D:\Uni\VS projects\POP_4_C\POP_4_C\bin\Debug\POP_4_C.exe.config
+D:\Uni\VS projects\POP_4_C\POP_4_C\bin\Debug\POP_4_C.exe
+D:\Uni\VS projects\POP_4_C\POP_4_C\bin\Debug\POP_4_C.pdb
+D:\Uni\VS projects\POP_4_C\POP_4_C\obj\Debug\POP_4_C.csprojAssemblyReference.cache
+D:\Uni\VS projects\POP_4_C\POP_4_C\obj\Debug\POP_4_C.csproj.CoreCompileInputs.cache
+D:\Uni\VS projects\POP_4_C\POP_4_C\obj\Debug\POP_4_C.exe
+D:\Uni\VS projects\POP_4_C\POP_4_C\obj\Debug\POP_4_C.pdb

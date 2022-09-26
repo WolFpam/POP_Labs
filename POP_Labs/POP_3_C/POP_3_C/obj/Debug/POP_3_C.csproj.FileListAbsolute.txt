@@ -1,0 +1,7 @@
+D:\Uni\VS projects\POP_3_C\POP_3_C\bin\Debug\POP_3_C.exe.config
+D:\Uni\VS projects\POP_3_C\POP_3_C\bin\Debug\POP_3_C.exe
+D:\Uni\VS projects\POP_3_C\POP_3_C\bin\Debug\POP_3_C.pdb
+D:\Uni\VS projects\POP_3_C\POP_3_C\obj\Debug\POP_3_C.csprojAssemblyReference.cache
+D:\Uni\VS projects\POP_3_C\POP_3_C\obj\Debug\POP_3_C.csproj.CoreCompileInputs.cache
+D:\Uni\VS projects\POP_3_C\POP_3_C\obj\Debug\POP_3_C.exe
+D:\Uni\VS projects\POP_3_C\POP_3_C\obj\Debug\POP_3_C.pdb
